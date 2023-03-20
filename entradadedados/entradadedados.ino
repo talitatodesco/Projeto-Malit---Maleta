@@ -5,8 +5,8 @@
 #include <WiFi.h>       // Biblioteca do WiFi.
 
 //Conexão com wifi
-const char* ssid = "CLARO_2G544AC8";
-const char* password = "96544AC8";
+const char* ssid = "*******************";
+const char* password = "**************";
 
 // --------------Configuração de relógio online -------------------
 const char* ntpServer1 = "c.st1.ntp.br"; //Endereço 1
