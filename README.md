@@ -28,58 +28,20 @@
 <hr></br>
 
 <div>
-  <h2>:technologist: Construção do app</h2>
-  <p>O app foi construído com o Framework React Native e Javascript, na parte de dados foi utilzado AsyncStorage, MySql e Firebase.</p>
+<div>
+  <h2>:thinking: Como é a nossa maleta?</h2>
+  <p>A Maleta Inteligente é uma solução inovadora para armazenar medicamentos de forma conveniente e segura. Com seus 12 compartimentos equipados com LEDs, oferece uma maneira inteligente de visualizar e organizar os medicamentos, garantindo que o usuário tome seus remédios no momento correto.</p>
 
-  <h3>:blue_book: Bibliotecas utilizadas:</h3>
+  <h3>Funcionalidades da Maleta:</h3>
   <ul>
-    <li>AsyncStorage</li>
-    <li>React Navigation</li>
-    <li>Axios</li>
-    <li>Hook Form</li>
-    <li>React Native Calendar</li>
-    <li>Data Picker</li>
-    <li>DropWon</li>
-    <li>Masked Text</li>
-    <li>Toas Message</li>
-    <li>Entre outras...</li>
-  </ul>
+    <li>Compartimentos isolados e com LED</li>
+    <li>Organização Simplificada</li>
+    <li>Lembretes personalizados</li>
+    <li>Personalização de horario</li>
+    <li>Conveniência e portabilidade</li>
+    <li>Monitoramento</li>
 </div>
 <hr></br>
-
-<div>
-<h2>:iphone: Imagens Demonstrativas do App</h2>
-
-<ul>
-  <li>Tela de Loading:</li>
-  <img src="https://github.com/dannsaraiva/Proj_TCC_AppMalit/blob/main/src/assets/screenshots/Loading.png"
-  width="300"/></br></br>
-  
-  <li>Tela de Login:</li>
-  <img src="https://github.com/dannsaraiva/Proj_TCC_AppMalit/blob/main/src/assets/screenshots/Login.png"
-  width="300"/></br></br>
-  
-  <li>Tela de Cadastro:</li>
-  <img src="https://github.com/dannsaraiva/Proj_TCC_AppMalit/blob/main/src/assets/screenshots/Cadastro.png"
-  width="300"/></br></br>
-  
-  <li>Tela de Meus Medicamentos:</li>
-  <img src="https://github.com/dannsaraiva/Proj_TCC_AppMalit/blob/main/src/assets/screenshots/Lista%20Medicamentos.png"
-  width="300"/></br></br>
-  
-  <li>Tela de Cadastrar Medicamentos:</li>
-  <img src="https://github.com/dannsaraiva/Proj_TCC_AppMalit/blob/main/src/assets/screenshots/Cadastro%20Medicamento.png"
-  width="300"/></br></br>
-  
-  <li>Tela de Teste Maleta:</li>
-  <img src="https://github.com/dannsaraiva/Proj_TCC_AppMalit/blob/main/src/assets/screenshots/Teste%20Maleta.png"
-  width="300"/></br></br>
-
-  <li>Tela de Agenda / Alarme:</li>
-  <img src="https://github.com/dannsaraiva/Proj_TCC_AppMalit/blob/main/src/assets/screenshots/Agenda%20-%20Alarme.png"
-  width="300"/></br></br>
-</ul>
-</div>
 
 <div>
   <h2>:camera: Imagem Demonstrativa da Maleta</h2>
